@@ -22,8 +22,8 @@ font-family: 'Shadows Into Light', cursive; */
   height: 550px;
 } */
 .about-img img {
-  height: 150px;
-  width: 150px;
+  height: 60%;
+  width: 90%;
 }
 .about-img p a {
   text-decoration: none;
