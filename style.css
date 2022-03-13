@@ -18,9 +18,9 @@ font-family: 'Shadows Into Light', cursive; */
 .nav-link {
   font-weight: bold;
 }
-.left-img img {
-  height: 90vh;
-}
+/* .left-img img {
+  height: 550px;
+} */
 .about-img img {
   height: 150px;
   width: 150px;
