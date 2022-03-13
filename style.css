@@ -10,8 +10,11 @@ font-family: 'Shadows Into Light', cursive; */
   font-size: 4rem;
 }
 .carousel-item img {
-  height: 70vh;
+  height: 80vh;
 }
 /* .modify-carousel {
   box-shadow: 10px 10px 40px rgb(133, 128, 128);
 } */
+.nav-link {
+  font-weight: bold;
+}
