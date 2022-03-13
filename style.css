@@ -1,0 +1,17 @@
+/* font-family: 'Inter', sans-serif;
+font-family: 'Manrope', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Shadows Into Light', cursive; */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Manrope:wght@500&family=Poppins:wght@400;600&family=Roboto:wght@700;900&family=Shadows+Into+Light&display=swap");
+
+#home h1 {
+  font-family: "Shadows Into Light", cursive;
+  font-size: 4rem;
+}
+.carousel-item img {
+  height: 70vh;
+}
+.modify-carousel {
+  box-shadow: 10px 10px 40px rgb(133, 128, 128);
+}
