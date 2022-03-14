@@ -1,9 +1,11 @@
 /* font-family: 'Inter', sans-serif;
 font-family: 'Manrope', sans-serif;
+font-family: 'Lobster', cursive;
 font-family: 'Poppins', sans-serif;
 font-family: 'Roboto', sans-serif;
+font-family: 'Pacifico', cursive;
 font-family: 'Shadows Into Light', cursive; */
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Manrope:wght@500&family=Poppins:wght@400;600&family=Roboto:wght@700;900&family=Shadows+Into+Light&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Lobster&family=Manrope:wght@500&family=Pacifico&family=Poppins:wght@400;600&family=Roboto:wght@700;900&family=Shadows+Into+Light&display=swap");
 
 #home h1 {
   font-family: "Shadows Into Light", cursive;
@@ -27,4 +29,11 @@ font-family: 'Shadows Into Light', cursive; */
 }
 .about-img p a {
   text-decoration: none;
+}
+.number {
+  font-family: "Pacifico", cursive;
+  font-size: 3rem;
+}
+.all-header {
+  font-family: "Lobster", cursive;
 }
